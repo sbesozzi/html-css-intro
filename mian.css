@@ -32,6 +32,10 @@ li span {
   font-style: italic;
 }
 
+ul
+{
+list-style-type: none;
+}
 
 
 
