@@ -5,4 +5,4 @@
 * Really cool
 * Yep, still cool
 
-[This is a link](http://github.com)
+[GitHub](http://github.com)
