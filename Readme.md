@@ -1,8 +1,8 @@
-# My Git Intro Project
+# Git Intro Project
 
-#### Yep, its cool
+#### Understanding Git
 
-* Really cool
-* Yep, still cool
+* This is confusing.
+* Oh now I get it!
 
 [GitHub](http://github.com)
